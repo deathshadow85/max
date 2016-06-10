@@ -511,7 +511,8 @@ function cron_plugins()
 end
 
 -- Start and load values
-our_id = 0
+our_id = [In reply to °﷽°✟Ð€@тн sĦαÐøШ✟°﷽°]
+218087833
 now = os.time()
 math.randomseed(now)
 started = false
